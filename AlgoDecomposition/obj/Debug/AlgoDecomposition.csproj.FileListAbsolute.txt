@@ -1,0 +1,5 @@
+f:\documents and settings\documents\visual studio 2013\Projects\AlgoDecomposition\AlgoDecomposition\bin\Debug\AlgoDecomposition.exe.config
+f:\documents and settings\documents\visual studio 2013\Projects\AlgoDecomposition\AlgoDecomposition\bin\Debug\AlgoDecomposition.exe
+f:\documents and settings\documents\visual studio 2013\Projects\AlgoDecomposition\AlgoDecomposition\bin\Debug\AlgoDecomposition.pdb
+f:\documents and settings\documents\visual studio 2013\Projects\AlgoDecomposition\AlgoDecomposition\obj\Debug\AlgoDecomposition.exe
+f:\documents and settings\documents\visual studio 2013\Projects\AlgoDecomposition\AlgoDecomposition\obj\Debug\AlgoDecomposition.pdb
